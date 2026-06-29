@@ -1,4 +1,4 @@
-# This program will remind after an hour to drink water by speaking
+# This program will remind after one hour to drink water by speaking
 
 
 import time 
